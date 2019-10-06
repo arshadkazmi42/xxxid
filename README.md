@@ -14,9 +14,9 @@ npm i 3xid
 
 ```javascript
 
-const 3xId = require('3xid');
+const xId = require('3xid');
 
-console.log(3xId.generate());
+console.log(xId.generate());
 
 // OUTPUT
 // a123-v432-c442
