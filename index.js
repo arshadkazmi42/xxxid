@@ -1,10 +1,5 @@
-// Initial Function Here
-// This will be entry point of the library
+const nLenNum = require('nlen-num');
 
-const dummy = () => {
-    // Your code here
-}
-
-
-// Export the functions
-module.exports = dummp;
+module.exports = (length) => {
+  return `${nLenNum(length)}-${nLenNum(length)}-${nLenNum(length)}`;
+};

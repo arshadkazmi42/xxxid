@@ -1,5 +1,5 @@
 {
-  "name": "3xid",
+  "name": "xxxid",
   "version": "1.0.0",
   "description": "xxx-xxx-xxx unique id generator",
   "main": "index.js",
@@ -13,15 +13,18 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arshadkazmi42/3xid.git"
+    "url": "git+https://github.com/arshadkazmi42/xxxid.git"
   },
   "keywords": [],
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^5.2.0",
-    "eslint": "^5.11.1",
-    "eslint-config-strongloop": "^2.1.0"
+    "eslint": "^6.5.1",
+    "eslint-config-strongloop": "^2.1.0",
+    "mocha": "^6.2.1"
   },
   "author": "Arshad Kazmi",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "nlen-num": "^1.0.0"
+  }
 }

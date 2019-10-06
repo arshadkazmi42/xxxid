@@ -1,32 +1,36 @@
-# 3xid
+# xxxid
 
-[![Build](https://img.shields.io/travis/com/arshadkazmi42/3xid.svg)](https://travis-ci.com/arshadkazmi42/3xid/)
+[![Build](https://img.shields.io/travis/com/arshadkazmi42/xxxid.svg)](https://travis-ci.com/arshadkazmi42/xxxid/)
 
 xxx-xxx-xxx unique id generator
 
 ## Install
 
 ```
-npm i 3xid
+npm i xxxid
 ```
 
 ## Usage
 
 ```javascript
 
-const xId = require('3xid');
+const xxxId = require('xxxid');
 
-console.log(xId.generate());
+console.log(xxxId());
+console.log(xxxId(3));
+console.log(xxxId(4));
 
 // OUTPUT
-// a123-v432-c442
+// a123-v43-c44
+// s21-313-ds1
+// ss1f-35s2-43xf
 
 ```
 
 ## Contributing
 
 Interested in contributing to this project?
-You can log any issues or suggestion related to this library [here](https://github.com/arshadkazmi42/3xid/issues/new)
+You can log any issues or suggestion related to this library [here](https://github.com/arshadkazmi42/xxxid/issues/new)
 
 Read our contributing [guide](CONTRIBUTING.md) on getting started with contributing to the codebase
 
