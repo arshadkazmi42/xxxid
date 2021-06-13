@@ -1,6 +1,6 @@
 # xxxid
 
-[![Build](https://img.shields.io/travis/com/arshadkazmi42/xxxid.svg)](https://travis-ci.com/arshadkazmi42/xxxid/)
+[![Build](https://github.com/arshadkazmi42/xxxid/actions/workflows/nodejs.yml/badge.svg)](https://github.com/arshadkazmi42/xxxid/actions/workflows/nodejs.yml)
 
 xxx-xxx-xxx unique id generator
 
