@@ -1,6 +1,12 @@
 # xxxid
 
 [![Build](https://github.com/arshadkazmi42/xxxid/actions/workflows/nodejs.yml/badge.svg)](https://github.com/arshadkazmi42/xxxid/actions/workflows/nodejs.yml)
+[![NPM Version](https://img.shields.io/npm/v/xxxid.svg)](https://www.npmjs.com/package/xxxid)
+[![NPM Downloads](https://img.shields.io/npm/dt/xxxid.svg)](https://www.npmjs.com/package/xxxid)
+[![Github Repo Size](https://img.shields.io/github/repo-size/arshadkazmi42/xxxid.svg)](https://github.com/arshadkazmi42/xxxid)
+[![LICENSE](https://img.shields.io/npm/l/xxxid.svg)](https://github.com/arshadkazmi42/xxxid/blob/master/LICENSE)
+[![Contributors](https://img.shields.io/github/contributors/arshadkazmi42/xxxid.svg)](https://github.com/arshadkazmi42/xxxid/graphs/contributors)
+[![Commit](https://img.shields.io/github/last-commit/arshadkazmi42/xxxid.svg)](https://github.com/arshadkazmi42/xxxid/commits/master)
 
 xxx-xxx-xxx unique id generator
 
@@ -34,7 +40,4 @@ You can log any issues or suggestion related to this library [here](https://gith
 
 Read our contributing [guide](CONTRIBUTING.md) on getting started with contributing to the codebase
 
-## Contributors
-
-Thank you to all the contributors who have helped us in making this project better :raised_hands:
 
